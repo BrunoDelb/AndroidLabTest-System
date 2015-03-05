@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Training</string>
+    <string name="saves_state">This text field saves its state:</string>
+    <string name="no_saves_state">This text field does not save its state:</string>
+    <string name="initial_text">Initial text.</string>
+    <string name="persistent_msg">Demonstration of persistent activity state with getPreferences(0).edit() and getPreferences(0).</string>
+</resources>
